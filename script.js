@@ -203,7 +203,7 @@ class Timer extends React.Component {
 
 
       React.createElement("div", { className: "author" }, " Designed and Coded by ", React.createElement("br", null),
-      React.createElement("a", { target: "_blank", href: "https://goo.gl/6NNLMG" }, "Peter Weinberg")),
+      React.createElement("a", { target: "_blank", href: "https://github.com/wkhalid2119/pomodoroClock" }, "Waleed Khalid")),
 
 
 
